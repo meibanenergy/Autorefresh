@@ -3,7 +3,7 @@
   "fullscreen": false,
   "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://meibanenergy.com/",
@@ -11,7 +11,7 @@
       "tabReloadIntervalSeconds": 0 
     },
     {
-      "url": "https://www.google.com/",
+      "url": "https://malaysia.yahoo.com/",
       "duration": 5,
       "tabReloadIntervalSeconds": 0 
     }
