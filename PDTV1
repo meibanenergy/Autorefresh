@@ -7,12 +7,12 @@
   "websites": [
     {
       "url": "https://meiban.fulcrumpro.com/ui/schedule/",
-      "duration": 10,
+      "duration": 900,
       "tabReloadIntervalSeconds": 0 
     },
     {
       "url": "https://meibanglobal-my.sharepoint.com/:b:/p/gilberto_cabral/EfVJEmvU6p1Cgxmxp-igMYcBd0cK93eSYnwssJlYf2jxLw?e=WgUnL2",
-      "duration": 5,
+      "duration": 60,
       "tabReloadIntervalSeconds": 0 
     }
   ]
