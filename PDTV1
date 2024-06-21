@@ -6,12 +6,12 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://meibanenergy.com/",
+      "url": "https://meiban.fulcrumpro.com/ui/schedule/",
       "duration": 10,
       "tabReloadIntervalSeconds": 0 
     },
     {
-      "url": "https://www.google.com/",
+      "url": "https://meibanglobal-my.sharepoint.com/personal/gilberto_cabral_meibanglobal_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgilberto%5Fcabral%5Fmeibanglobal%5Fcom%2FDocuments%2FMESSB%20QA%20Manual%2FQuality%2F1%2E%20Quality%20Management%20System%2F10%2E%20Key%20Performance%20Index%20%28KPI%29%2F2024%2FMonthly%20Report%2FQO%20May%2024%2Epdf&parent=%2Fpersonal%2Fgilberto%5Fcabral%5Fmeibanglobal%5Fcom%2FDocuments%2FMESSB%20QA%20Manual%2FQuality%2F1%2E%20Quality%20Management%20System%2F10%2E%20Key%20Performance%20Index%20%28KPI%29%2F2024%2FMonthly%20Report&ga=1",
       "duration": 5,
       "tabReloadIntervalSeconds": 0 
     }
