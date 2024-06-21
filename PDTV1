@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://meibanenergy.com/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 0 
+    },
+    {
+      "url": "https://chatgpt.com/",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0 
+    }
+  ]
+}
