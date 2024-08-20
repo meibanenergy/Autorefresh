@@ -6,12 +6,12 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://meiban.fulcrumpro.com/ui/schedule/",
+      "url": "https://meiban.fulcrumpro.com/ui/reporting/real-time-personnel",
       "duration": 900,
       "tabReloadIntervalSeconds": 0 
     },
     {
-      "url": "https://meibanglobal-my.sharepoint.com/:b:/p/gilberto_cabral/EfVJEmvU6p1Cgxmxp-igMYcBd0cK93eSYnwssJlYf2jxLw?e=WgUnL2",
+      "url": "https://meibanglobal-my.sharepoint.com/:b:/p/gilberto_cabral/EbhFOE20nqZMuIZrV7X_iEoBkGgRAgllxRE4XUi2tTPhjQ?e=ZrdZ2c",
       "duration": 60,
       "tabReloadIntervalSeconds": 0 
     }
